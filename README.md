@@ -1,2 +1,2 @@
-# Netwok-Mapper
+# Network-Mapper
 Really basic network mapper
